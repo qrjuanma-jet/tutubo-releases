@@ -1,8 +1,8 @@
 {
-  "versionCode": 88,
-  "versionName": "12.8",
+  "versionCode": 89,
+  "versionName": "12.9",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v12.8:\n• Sistema de actualización automática OTA desde GitHub.\n• Actualización dinámica en tiempo real del motor de descargas al más funcional y rápido.\n• Subtítulos estables sin parpadeos y tamaño adaptado a Google TV.\n• Notificación con indicador en Ajustes al haber nueva versión disponible.",
+  "releaseNotes": "Novedades de TuTubo v12.9:\n• Subtítulos ultra-limpios: filtro inteligente que elimina avisos de YouTube (idioma automático, instrucciones) y corchetes de sonido ([Music], [Applause], etc.), mostrando exclusivamente la letra real.\n• Sincronización rítmica instantánea y acompasada con la música (<50ms, timeupdate & MutationObserver).\n• Barra de subtítulos fija y estable: muestra '♪ ♪ ♪' atenuado durante silencios e instrumentales sin saltos visuales.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
