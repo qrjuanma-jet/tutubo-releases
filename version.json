@@ -1,8 +1,8 @@
 {
-  "versionCode": 89,
-  "versionName": "12.9",
+  "versionCode": 90,
+  "versionName": "13.0",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v12.9:\n• Subtítulos ultra-limpios: filtro inteligente que elimina avisos de YouTube (idioma automático, instrucciones) y corchetes de sonido ([Music], [Applause], etc.), mostrando exclusivamente la letra real.\n• Sincronización rítmica instantánea y acompasada con la música (<50ms, timeupdate & MutationObserver).\n• Barra de subtítulos fija y estable: muestra '♪ ♪ ♪' atenuado durante silencios e instrumentales sin saltos visuales.",
+  "releaseNotes": "Novedades de TuTubo v13.0:\n• Subtítulos continuos y persistentes: cada frase de la canción se mantiene visible en pantalla hasta que entra la siguiente, eliminando cualquier parpadeo o desaparición fugaz.\n• Eliminados totalmente los iconos y notas musicales intermedias: solo se muestra la letra limpia de la canción.\n• Sincronización rítmica en tiempo real con el reproductor de YouTube.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
