@@ -1,8 +1,8 @@
 {
-  "versionCode": 91,
-  "versionName": "13.1",
+  "versionCode": 92,
+  "versionName": "13.2",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v13.1:\n• Corrección de modo vídeo: al arrancar en modo música e ir de inmediato a modo vídeos, se cancela cualquier inicio de reproducción pendiente y se abre limpiamente la página de inicio de YouTube sin sonar ninguna pista.\n• Subtítulos continuos, limpios y persistentes sin parpadeos.\n• Mejoras de estabilidad general.",
+  "releaseNotes": "Novedades de TuTubo v13.2:\n• Doble clic para ver vídeo musical: en la lista de canciones, pulsa 2 veces rápido sobre cualquier pista para ver su vídeo en pantalla completa. Al pulsar Cancelar/Atrás, vuelves directamente al reproductor de audio sin interrumpir la experiencia.\n• Corrección de modo vídeo al arrancar y mejoras en subtítulos.\n• Máxima fluidez y estabilidad general.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
