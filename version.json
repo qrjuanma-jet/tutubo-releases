@@ -1,8 +1,8 @@
 {
-  "versionCode": 90,
-  "versionName": "13.0",
+  "versionCode": 91,
+  "versionName": "13.1",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v13.0:\n• Subtítulos continuos y persistentes: cada frase de la canción se mantiene visible en pantalla hasta que entra la siguiente, eliminando cualquier parpadeo o desaparición fugaz.\n• Eliminados totalmente los iconos y notas musicales intermedias: solo se muestra la letra limpia de la canción.\n• Sincronización rítmica en tiempo real con el reproductor de YouTube.",
+  "releaseNotes": "Novedades de TuTubo v13.1:\n• Corrección de modo vídeo: al arrancar en modo música e ir de inmediato a modo vídeos, se cancela cualquier inicio de reproducción pendiente y se abre limpiamente la página de inicio de YouTube sin sonar ninguna pista.\n• Subtítulos continuos, limpios y persistentes sin parpadeos.\n• Mejoras de estabilidad general.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
