@@ -1,8 +1,8 @@
 {
-  "versionCode": 92,
-  "versionName": "13.2",
+  "versionCode": 93,
+  "versionName": "13.3",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v13.2:\n• Doble clic para ver vídeo musical: en la lista de canciones, pulsa 2 veces rápido sobre cualquier pista para ver su vídeo en pantalla completa. Al pulsar Cancelar/Atrás, vuelves directamente al reproductor de audio sin interrumpir la experiencia.\n• Corrección de modo vídeo al arrancar y mejoras en subtítulos.\n• Máxima fluidez y estabilidad general.",
+  "releaseNotes": "Novedades de TuTubo v13.3:\n• Ver vídeo musical sin reiniciar la canción: al pulsar 2 veces sobre la canción que está sonando (o tocar el logo TuTubo), entras al reproductor de vídeo continuando la reproducción en el segundo exacto donde iba, sin interrupciones ni pausas.\n• Cancelar / Atrás para volver al reproductor: al pulsar Cancelar o Atrás regresas al reproductor de música al instante y sin cortes.\n• Retardo inteligente anti-falsos clics: el primer clic no pausa ni interrumpe la música al hacer doble pulsación rápida.\n• Máxima fluidez y estabilidad.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
