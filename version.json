@@ -1,8 +1,8 @@
 {
-  "versionCode": 95,
-  "versionName": "13.5",
+  "versionCode": 96,
+  "versionName": "13.6",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v13.5:\n• Corrección en reproductor de música: las canciones con recorte de inicio guardado (para saltar la intro del vídeo) ahora inician automáticamente desde el segundo programado al volver a entrar a la canción.\n• Sincronización precisa y automática del punto de recorte tanto en streaming como en reproducción local MP3.",
+  "releaseNotes": "Novedades de TuTubo v13.6:\n• En el reproductor de música, al pulsar sobre el logo 'TuTubo' superior izquierdo, ahora abre siempre directamente el modo vídeo en la página de inicio de YouTube.\n• Navegación en Google TV: solución al bloqueo en vídeos Shorts a pantalla completa. Ahora el botón cancelar/atrás del mando a distancia permite salir de Shorts de forma inmediata y volver a la página anterior o al inicio de YouTube sin tener que reiniciar ni borrar caché.\n• Nuevo sistema de compartir: se comparte directamente el archivo instalador .apk desde la propia aplicación (compatible con WhatsApp, Telegram, etc.) protegiendo tu privacidad sin enlaces externos.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
