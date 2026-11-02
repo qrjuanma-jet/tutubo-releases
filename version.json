@@ -1,8 +1,8 @@
 {
-  "versionCode": 97,
-  "versionName": "13.7",
+  "versionCode": 98,
+  "versionName": "13.8",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v13.7:\n• Google TV / Android TV: corrección completa del acceso al reproductor de música. Al seleccionar 'Música' en el menú lateral de YouTube TV o en el panel de control remoto, ahora se abre de inmediato el reproductor musical TuTubo con tus listas y carátulas, evitando quedarse en los vídeos de YouTube.\n• Foco y navegación remota mejorados en pantalla completa en Google TV para el reproductor musical.",
+  "releaseNotes": "Novedades de TuTubo v13.8:\n• Modo Aleatorio integrado en el botón de control de reproducción: ahora puedes alternar fácilmente entre Repetir Canción, Repetir Lista, Modo Aleatorio y Repetición desactivada desde el propio botón de control del reproductor y desde las notificaciones multimedia.\n• Rediseño de la barra horizontal de listas: se quita la carátula de aleatorio y la carpeta de Portapapeles pasa a estar en la penúltima posición de la lista, justo antes de la de nueva lista (+...).\n• Reproducción y selección aleatoria mejorada al pulsar sobre cualquier lista con modo aleatorio activo.",
   "engines": [
     "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
