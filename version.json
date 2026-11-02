@@ -1,10 +1,10 @@
 {
-  "versionCode": 100,
-  "versionName": "14.0",
+  "versionCode": 101,
+  "versionName": "14.1",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.0:\n• Motor de descargas actualizado y optimizado: se renuevan por completo las instancias de descarga eliminando servidores caídos o bloqueados e integrando instancias de alto rendimiento con comprobación nativa de vídeo y audio.\n• Sistema de reintentos y tolerancia a fallos: fallback automático entre múltiples motores y streams de alta fidelidad (MP3/AAC y MP4 HD) con resolución transparente de redirecciones.\n• Limpieza de caché de motores inactivos para descargas instantáneas y fiables.",
+  "releaseNotes": "Novedades de TuTubo v14.1:\n• Soporte de descarga vía Proxy Invidious (/videoplayback): solución definitiva para canciones protegidas por IP o pistas oficiales de discográficas (como 'Infinity 2008', 'Despacito', etc.) que provocaban error 403 Forbidden al descargar directamente desde los servidores de YouTube.\n• Detección automática y conmutación transparente a proxy cuando el servidor de Google restringe la IP del dispositivo móvil.\n• Priorización del motor de alto rendimiento yt.chocolatemoo53.com con respaldo secundario en invidious.ducks.party.",
   "engines": [
-    "https://invidious.ducks.party",
-    "https://yt.chocolatemoo53.com"
+    "https://yt.chocolatemoo53.com",
+    "https://invidious.ducks.party"
   ]
 }
