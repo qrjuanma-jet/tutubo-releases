@@ -1,10 +1,9 @@
 {
-  "versionCode": 101,
-  "versionName": "14.1",
+  "versionCode": 102,
+  "versionName": "14.2",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.1:\n• Soporte de descarga vía Proxy Invidious (/videoplayback): solución definitiva para canciones protegidas por IP o pistas oficiales de discográficas (como 'Infinity 2008', 'Despacito', etc.) que provocaban error 403 Forbidden al descargar directamente desde los servidores de YouTube.\n• Detección automática y conmutación transparente a proxy cuando el servidor de Google restringe la IP del dispositivo móvil.\n• Priorización del motor de alto rendimiento yt.chocolatemoo53.com con respaldo secundario en invidious.ducks.party.",
+  "releaseNotes": "Novedades de TuTubo v14.2:\n• Recuperación automática de pistas con restricción de edad (18+ / NSFW) o bloqueadas: solución definitiva para descargas de temas como 'Robin Thicke - Blurred Lines' cuyo vídeo oficial sin censura está restringido por YouTube. El nuevo motor busca y descarga de forma transparente la pista musical alternativa oficial y aprende el nuevo enlace.\n• Motor exclusivo de alto rendimiento yt.chocolatemoo53.com con streaming proxy /videoplayback.\n• Depuración automática de motores antiguos no funcionales en la caché del dispositivo.",
   "engines": [
-    "https://yt.chocolatemoo53.com",
-    "https://invidious.ducks.party"
+    "https://yt.chocolatemoo53.com"
   ]
 }
