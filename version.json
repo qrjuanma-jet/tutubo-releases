@@ -1,15 +1,10 @@
 {
-  "versionCode": 99,
-  "versionName": "13.9",
+  "versionCode": 100,
+  "versionName": "14.0",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v13.9:\n• Descarga opcional de vídeo MP4: en el reproductor de música, al pulsar en descargar una canción o lista en MP3, ahora se pregunta si deseas descargar además el vídeo en formato MP4 de alta definición o descargar únicamente el audio MP3.\n• Guardado conjunto de MP3 y MP4 en la carpeta Descargas y almacenamiento local para reproducción sin conexión.",
+  "releaseNotes": "Novedades de TuTubo v14.0:\n• Motor de descargas actualizado y optimizado: se renuevan por completo las instancias de descarga eliminando servidores caídos o bloqueados e integrando instancias de alto rendimiento con comprobación nativa de vídeo y audio.\n• Sistema de reintentos y tolerancia a fallos: fallback automático entre múltiples motores y streams de alta fidelidad (MP3/AAC y MP4 HD) con resolución transparente de redirecciones.\n• Limpieza de caché de motores inactivos para descargas instantáneas y fiables.",
   "engines": [
-    "https://yt.chocolatemoo53.com",
     "https://invidious.ducks.party",
-    "https://inv.nadeko.net",
-    "https://invidious.nerdvpn.de",
-    "https://inv.tux.pizza",
-    "https://invidious.jing.rocks",
-    "https://invidious.private.coffee"
+    "https://yt.chocolatemoo53.com"
   ]
 }
