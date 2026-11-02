@@ -1,8 +1,8 @@
 {
-  "versionCode": 103,
-  "versionName": "14.3",
+  "versionCode": 104,
+  "versionName": "14.4",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.3:\n• Selector completo de formato en todos los botones de descarga: ahora puedes elegir libremente si descargar Solo Audio MP3, Solo Vídeo MP4 o Ambos (MP3 + MP4) tanto para la canción actual, como para una selección múltiple o para la lista completa.\n• Notificaciones visuales claras indicando el tipo de medio guardado (Audio MP3, Vídeo MP4 o Ambos).\n• Mantenimiento del motor de alta velocidad con proxy videoplayback y recuperación inteligente de canciones protegidas o 18+.",
+  "releaseNotes": "Novedades de TuTubo v14.4:\n• Descarga de vídeos en auténtica resolución FullHD 1080p: extracción directa de streams DASH 1080p (H.264 / AVC1) y multiplexado nativo con audio de alta fidelidad AAC mediante MediaMuxer en un único contenedor MP4.\n• Máxima compatibilidad de reproducción: los vídeos MP4 1080p resultantes se reproducen de forma fluida en cualquier dispositivo móvil o Google TV con sonido sincronizado perfecto.\n• Compatibilidad directa con la ruta de descargas de Google TV (storage/emulated/0/Download).\n• Opciones actualizadas en el selector de descarga indicando calidad FullHD (1080p).",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
