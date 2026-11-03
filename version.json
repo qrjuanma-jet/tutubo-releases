@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "14.5",
+  "versionCode": 106,
+  "versionName": "14.6",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.5:\n• Nuevo Botón K (Modo Canal): botón circular 'K' ubicado entre Música y Ajustes en el reproductor de vídeo.\n• Fondo verde cuando está desactivado y fondo naranja cuando está activo.\n• Reproducción automática continua de vídeos del canal: al elegir un vídeo de un canal con el botón K activo, al terminar cada vídeo se reproduce el siguiente vídeo del mismo canal en bucle hasta que se deselecciona.\n• Ayuda de Configuración actualizada con la explicación detallada del Modo Canal K y descargas en MP3 y MP4 FullHD.",
+  "releaseNotes": "Novedades de TuTubo v14.6:\n• Enlace alternativo mejorado (⚡): al buscar un enlace alternativo en el reproductor de música, la nueva canción se inicia limpiamente en los cero segundos (00:00).\n• Modificación manual de inicio: ahora se puede volver a ajustar y modificar manualmente el inicio de la canción cuantas veces se desee moviendo la barra en vivo con el dedo o con el mando a distancia.\n• Diálogo de gestión rápida al pulsar el indicador de recorte para modificar el inicio o restablecer la pista a 0 segundos con un solo toque.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
