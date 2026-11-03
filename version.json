@@ -1,8 +1,8 @@
 {
-  "versionCode": 104,
-  "versionName": "14.4",
+  "versionCode": 105,
+  "versionName": "14.5",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.4:\n• Descarga de vídeos en auténtica resolución FullHD 1080p: extracción directa de streams DASH 1080p (H.264 / AVC1) y multiplexado nativo con audio de alta fidelidad AAC mediante MediaMuxer en un único contenedor MP4.\n• Máxima compatibilidad de reproducción: los vídeos MP4 1080p resultantes se reproducen de forma fluida en cualquier dispositivo móvil o Google TV con sonido sincronizado perfecto.\n• Compatibilidad directa con la ruta de descargas de Google TV (storage/emulated/0/Download).\n• Opciones actualizadas en el selector de descarga indicando calidad FullHD (1080p).",
+  "releaseNotes": "Novedades de TuTubo v14.5:\n• Nuevo Botón K (Modo Canal): botón circular 'K' ubicado entre Música y Ajustes en el reproductor de vídeo.\n• Fondo verde cuando está desactivado y fondo naranja cuando está activo.\n• Reproducción automática continua de vídeos del canal: al elegir un vídeo de un canal con el botón K activo, al terminar cada vídeo se reproduce el siguiente vídeo del mismo canal en bucle hasta que se deselecciona.\n• Ayuda de Configuración actualizada con la explicación detallada del Modo Canal K y descargas en MP3 y MP4 FullHD.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
