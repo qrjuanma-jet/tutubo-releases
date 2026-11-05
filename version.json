@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
-  "versionName": "14.6",
+  "versionCode": 107,
+  "versionName": "14.7",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.6:\n• Enlace alternativo mejorado (⚡): al buscar un enlace alternativo en el reproductor de música, la nueva canción se inicia limpiamente en los cero segundos (00:00).\n• Modificación manual de inicio: ahora se puede volver a ajustar y modificar manualmente el inicio de la canción cuantas veces se desee moviendo la barra en vivo con el dedo o con el mando a distancia.\n• Diálogo de gestión rápida al pulsar el indicador de recorte para modificar el inicio o restablecer la pista a 0 segundos con un solo toque.",
+  "releaseNotes": "Novedades de TuTubo v14.7:\n• Reordenación fluida y precisa de canciones por arrastre (Drag & Drop): mantén pulsada cualquier canción en una lista para arrastrarla y cambiar su orden hacia delante o hacia atrás con total naturalidad.\n• Movimiento de bloques de canciones: selecciona varias pistas (tocando sus badges numéricos o usando 'Rango' / 'Todas' en la nueva barra superior de selección) y mantén pulsado para arrastrar todo el bloque agrupado a cualquier posición de la lista o a otra lista.\n• Autodesplazamiento continuo (auto-scroll): al arrastrar pistas cerca del borde superior o inferior de la pantalla, la lista se desplaza automáticamente para poder llevar canciones a cualquier punto sin importar la longitud de la lista.\n• Indicador visual dinámico de inserción: muestra si la pista o bloque se colocará antes o después de la tarjeta de destino, con un badge flotante que indica cuántas canciones se están moviendo.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
