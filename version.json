@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "14.7",
+  "versionCode": 108,
+  "versionName": "14.8",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.7:\n• Reordenación fluida y precisa de canciones por arrastre (Drag & Drop): mantén pulsada cualquier canción en una lista para arrastrarla y cambiar su orden hacia delante o hacia atrás con total naturalidad.\n• Movimiento de bloques de canciones: selecciona varias pistas (tocando sus badges numéricos o usando 'Rango' / 'Todas' en la nueva barra superior de selección) y mantén pulsado para arrastrar todo el bloque agrupado a cualquier posición de la lista o a otra lista.\n• Autodesplazamiento continuo (auto-scroll): al arrastrar pistas cerca del borde superior o inferior de la pantalla, la lista se desplaza automáticamente para poder llevar canciones a cualquier punto sin importar la longitud de la lista.\n• Indicador visual dinámico de inserción: muestra si la pista o bloque se colocará antes o después de la tarjeta de destino, con un badge flotante que indica cuántas canciones se están moviendo.",
+  "releaseNotes": "Novedades de TuTubo v14.8:\n• Corrección en el reproductor de música: eliminada la indicación flotante 'Velocidad: 1.0x' que aparecía al abrir el reproductor o al cambiar/reproducir canciones.\n• Optimización de avisos de velocidad: el indicador OSD se mantiene únicamente para los ajustes manuales de velocidad de vídeo con el mando en Google TV.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
