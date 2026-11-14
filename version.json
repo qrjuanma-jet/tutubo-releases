@@ -1,8 +1,8 @@
 {
-  "versionCode": 108,
-  "versionName": "14.8",
+  "versionCode": 109,
+  "versionName": "14.9",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v14.8:\n• Corrección en el reproductor de música: eliminada la indicación flotante 'Velocidad: 1.0x' que aparecía al abrir el reproductor o al cambiar/reproducir canciones.\n• Optimización de avisos de velocidad: el indicador OSD se mantiene únicamente para los ajustes manuales de velocidad de vídeo con el mando en Google TV.",
+  "releaseNotes": "Novedades de TuTubo v14.9:\n• Reordenación de listas por arrastre (Drag & Drop): mantén pulsada cualquier lista en la barra de listas para moverla y organizarla a tu gusto con auto-desplazamiento suave al arrastrar hacia los bordes.\n• Barra dinámica para renombrar abajo: al mantener pulsada o arrastrar una lista, aparece debajo su nombre en un campo editable para renombrarla al instante con botón Guardar y confirmación rápida.\n• Corrección de botón Atrás en Google TV: al pulsar Atrás/Cancelar mientras ves un vídeo (tanto en reproducción como en pausa), ahora vuelve siempre de forma directa y garantizada al inicio de YouTube TV, sin retroceder a vídeos reproducidos previamente.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
