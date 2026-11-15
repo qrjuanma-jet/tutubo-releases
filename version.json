@@ -1,8 +1,8 @@
 {
-  "versionCode": 110,
-  "versionName": "15.0",
+  "versionCode": 111,
+  "versionName": "15.1",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v15.0:\n• Activación Ilimitada en Google TV: Al instalar TuTubo en Google TV / Android TV no es necesario activar, funciona para siempre de por vida con todas las funciones desbloqueadas sin necesidad de archivos ni renovaciones.\n• Reordenación de listas por arrastre (Drag & Drop) y barra de renombrado dinámico en el reproductor.\n• Retorno directo al Inicio de YouTube TV con el botón Atrás tanto en reproducción como en pausa.",
+  "releaseNotes": "Novedades de TuTubo v15.1:\n• Reproducción automática instantánea al importar listas por WiFi o archivo en Google TV y Android.\n• Reemplazo inteligente de listas por defecto vacías en instalaciones limpias para que la lista importada se coloque de inmediato como la principal.\n• Desbloqueo y navegación fluida del mando a distancia (D-Pad): pulsar Arriba desde Play/Pause o la barra de tiempo salta limpiamente a las listas sin quedar bloqueado.\n• Navegación bidireccional continua entre listas, canciones y barra de controles.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
