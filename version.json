@@ -1,8 +1,8 @@
 {
-  "versionCode": 113,
-  "versionName": "15.3",
+  "versionCode": 114,
+  "versionName": "15.4",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v15.3:\n• Periodo de prueba gratuito ampliado a 15 días (en lugar de 3) para disfrutar de la aplicación libremente antes de necesitar activación.\n• El mensaje predeterminado para activar la app por WhatsApp es exclusivamente 'Adjunto peticion.tutubo'.\n• Generación y apertura directa por WhatsApp del archivo peticion.tutubo en móviles al pulsar 'Activar aplicación'.\n• En Google TV la app está activada para siempre de por vida.\n• Detección visual de actualización en modo vídeo con apertura directa del panel de opciones y punto rojo en el engranaje ⚙️.",
+  "releaseNotes": "Novedades de TuTubo v15.4:\n• Botón de apagado (forzar detención completa) incorporado en el reproductor de vídeo y en el reproductor de música.\n• Reordenación del panel de opciones en Google TV: 1º Reproductor de música, 2º Velocidad del vídeo y botón de apagado en sustitución de la cruz.\n• Corrección de cortes de reproducción de audio en segundo plano en Google TV.\n• Optimización de decodificación y estabilidad continua sin interrupciones.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
