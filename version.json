@@ -1,8 +1,8 @@
 {
-  "versionCode": 114,
-  "versionName": "15.4",
+  "versionCode": 115,
+  "versionName": "15.5",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v15.4:\n• Botón de apagado (forzar detención completa) incorporado en el reproductor de vídeo y en el reproductor de música.\n• Reordenación del panel de opciones en Google TV: 1º Reproductor de música, 2º Velocidad del vídeo y botón de apagado en sustitución de la cruz.\n• Corrección de cortes de reproducción de audio en segundo plano en Google TV.\n• Optimización de decodificación y estabilidad continua sin interrupciones.",
+  "releaseNotes": "Novedades de TuTubo v15.5:\n• Botón de Inicio (Home 🏠) en el reproductor de vídeo para móvil (sustituyendo al botón K) para regresar directamente a la página principal de YouTube.\n• Nuevo botón de Inicio (Home 🏠) en primer lugar en el menú de opciones del reproductor de vídeo en Google TV.\n• Mejoras de navegación y estabilidad general.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
