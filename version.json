@@ -1,8 +1,8 @@
 {
-  "versionCode": 116,
-  "versionName": "15.6",
+  "versionCode": 117,
+  "versionName": "15.7",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v15.6:\n• Reproducción automática inmediata al abrir el reproductor de música o iniciar la app en modo música.\n• Continuación automática a la siguiente lista al finalizar una lista (y vuelta a la primera lista).\n• Enlace Bluetooth: ahora se muestra el nombre de la lista en lugar de 'TuTubo' en la pantalla del coche.\n• Control por gestos: toque rápido anterior-siguiente para cambiar a la siguiente lista.\n• Control en bolsillo: cambio a la siguiente canción al bajar y subir el volumen rápidamente con el móvil bloqueado.\n• Corrección de paradas de música y errores de reproducción en Google TV y Chromecast.",
+  "releaseNotes": "Novedades de TuTubo v15.7:\n• Corrección crítica: solucionado el conflicto de AudioFocus entre MediaPlaybackService y WebView que pausaba las canciones al instante de empezar a sonar (tanto en móviles Android como en Google TV).\n• Watchdog de reproducción refinado para evitar falsos positivos de error o cortes prematuros.\n• Mantiene todas las mejoras de v15.6: reproducción automática al abrir música, continuación entre listas, nombre de la lista en Bluetooth del coche, gesto rápido anterior-siguiente y salto con botones de volumen en bolsillo.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
