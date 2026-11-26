@@ -1,8 +1,8 @@
 {
-  "versionCode": 115,
-  "versionName": "15.5",
+  "versionCode": 116,
+  "versionName": "15.6",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v15.5:\n• Botón de Inicio (Home 🏠) en el reproductor de vídeo para móvil (sustituyendo al botón K) para regresar directamente a la página principal de YouTube.\n• Nuevo botón de Inicio (Home 🏠) en primer lugar en el menú de opciones del reproductor de vídeo en Google TV.\n• Mejoras de navegación y estabilidad general.",
+  "releaseNotes": "Novedades de TuTubo v15.6:\n• Reproducción automática inmediata al abrir el reproductor de música o iniciar la app en modo música.\n• Continuación automática a la siguiente lista al finalizar una lista (y vuelta a la primera lista).\n• Enlace Bluetooth: ahora se muestra el nombre de la lista en lugar de 'TuTubo' en la pantalla del coche.\n• Control por gestos: toque rápido anterior-siguiente para cambiar a la siguiente lista.\n• Control en bolsillo: cambio a la siguiente canción al bajar y subir el volumen rápidamente con el móvil bloqueado.\n• Corrección de paradas de música y errores de reproducción en Google TV y Chromecast.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
