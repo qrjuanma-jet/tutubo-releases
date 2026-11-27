@@ -1,8 +1,8 @@
 {
-  "versionCode": 117,
-  "versionName": "15.7",
+  "versionCode": 118,
+  "versionName": "15.8",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tutubo-releases/main/TuTubo.apk",
-  "releaseNotes": "Novedades de TuTubo v15.7:\n• Corrección crítica: solucionado el conflicto de AudioFocus entre MediaPlaybackService y WebView que pausaba las canciones al instante de empezar a sonar (tanto en móviles Android como en Google TV).\n• Watchdog de reproducción refinado para evitar falsos positivos de error o cortes prematuros.\n• Mantiene todas las mejoras de v15.6: reproducción automática al abrir música, continuación entre listas, nombre de la lista en Bluetooth del coche, gesto rápido anterior-siguiente y salto con botones de volumen en bolsillo.",
+  "releaseNotes": "Novedades de TuTubo v15.8:\n• Solución definitiva a los cortes a mitad de canción en Google TV / Chromecast (endpoints de sesión/streaming desbloqueados, falso positivo del adblocker corregido, menor CPU y recuperación en el mismo segundo).\n• Nuevo en Google TV: doble toque rápido en el botón central (OK) sobre Play para ver el videoclip a pantalla completa (Atrás/Cancelar vuelve al reproductor sin cortar la música).\n• Modo Música seleccionado por defecto al instalar por primera vez, con la lista precargada 👑 Queen Greatest Hits (Spotify) sonando directamente 'We Are The Champions'.\n• Guía de Ayuda (❓) totalmente actualizada con todas las funciones simbólicas de TuTubo.",
   "engines": [
     "https://yt.chocolatemoo53.com"
   ]
